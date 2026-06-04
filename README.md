@@ -4,7 +4,7 @@ This repository contains a Jupyter notebook that analyzes real NASA Kepler light
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 The goal of this project is to:
 
@@ -19,14 +19,14 @@ This workflow mirrors the early stages of real exoplanet discovery pipelines.
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 - **Exoplanet Transit Project.ipynb**  
   The main notebook containing all code, plots, and analysis steps.
 
 ---
 
-## 🧠 Methods Summary
+## Methods Summary
 
 ### 1. Data Loading  
 Kepler long‑cadence FITS files are loaded using `astropy.io.fits`.  
@@ -63,7 +63,7 @@ Assuming a Sun‑like star gives a first‑order estimate of planet radius.
 
 ---
 
-## 📊 Example Results
+## Example Results
 
 - **Best‑fit period:** ~0.3879 days (~9.3 hours)  
 - **Transit depth:** ~3.9 × 10⁻⁶  
@@ -73,7 +73,7 @@ The extremely small depth suggests this target is not a strong exoplanet candida
 
 ---
 
-## 🛠️ Dependencies
+## Dependencies
 
 This project uses:
 
