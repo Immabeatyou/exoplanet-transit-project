@@ -25,6 +25,10 @@ This workflow mirrors the early stages of real exoplanet discovery pipelines.
   The main notebook containing all code, plots, and analysis steps.
 - **Exoplanet Transit Project 2.ipynb**
   The secondary iteration of the project.
+  **Exoplanet Transit Project 3.ipynb**
+  The tertiary iteration of the project.
+
+  Other iterations will not be listed but will be in the repo.
 ---
 
 ## Methods Summary
